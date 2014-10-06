@@ -2,10 +2,10 @@
 // @name            DuckDuckGo Links To Other Engines
 // @namespace       DuckDuckGoLinksToOtherEngines
 // @description     Add various search engines to DuckDuckGo.
-// @homepage        
-// @icon            
-// @updateURL       
-// @downloadURL     
+// @homepage        https://github.com/Odyseus/GreasemonkeyScripts/tree/master/DuckDuckGoLinksToOtherEngines
+// @icon            https://raw.githubusercontent.com/Odyseus/GreasemonkeyScripts/master/DuckDuckGoLinksToOtherEngines/ddg-logo.png
+// @updateURL       https://raw.githubusercontent.com/Odyseus/GreasemonkeyScripts/master/DuckDuckGoLinksToOtherEngines/ddgltoe.user.js
+// @downloadURL     https://raw.githubusercontent.com/Odyseus/GreasemonkeyScripts/master/DuckDuckGoLinksToOtherEngines/ddgltoe.user.js
 // @include         https://duckduckgo.com*
 // @include         http://duckduckgo.com*
 // @version         1
