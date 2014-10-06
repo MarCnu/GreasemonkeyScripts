@@ -6,7 +6,7 @@ The only thing I modified to the script is that I have specified all **@grant** 
 
 #### Usage
 * Install **[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)** extension and restart your browser.
-* Install **[Google Translator Tooltip Expanded Fork script](https://github.com/Odyseus/GreasemonkeyScripts/raw/master/GoogleTranslatorTooltipExpandedFork/master/gttef.user.js)**.
+* Install **[Google Translator Tooltip Expanded Fork script](https://raw.githubusercontent.com/Odyseus/GreasemonkeyScripts/master/GoogleTranslatorTooltipExpandedFork/gttef.user.js)**.
 * Select a text, move the mouse over the 'translate' icon, and a tooltip with the translation appears. See image below.
 
 ![](https://raw.githubusercontent.com/Odyseus/GreasemonkeyScripts/master/GoogleTranslatorTooltipExpandedFork/Example.png)
