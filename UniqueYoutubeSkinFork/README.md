@@ -3,10 +3,10 @@ This is a script for YouTube to be used with Greasemonkey. The original author i
 
 #### Usage
 * Install **[Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)** extension and restart your browser.
-* Install **[Unique Youtube Skin Fork script](https://raw.github.com/Odyseus/UniqueYoutubeSkin/master/uys.user.js)**.
+* Install **[Unique Youtube Skin Fork script](https://github.com/Odyseus/GreasemonkeyScripts/raw/master/UniqueYoutubeSkinFork/uys.user.js)**.
 * To configure, open any YouTube video, scroll the mouse wheel to show the hidden sidebar and click on the gear icon. See image below.
 
-![](https://raw.githubusercontent.com/Odyseus/UniqueYoutubeSkin/master/CSSImages/UniqueYoutubeSkingOptions.png)
+![](https://raw.githubusercontent.com/Odyseus/GreasemonkeyScripts/master/UniqueYoutubeSkinFork/CSSImages/UniqueYoutubeSkingOptions.png)
 
 * More information about the functions of this script can be found in the **[original script page](https://github.com/halukilhan/uys/blob/master/README.md)**.
 

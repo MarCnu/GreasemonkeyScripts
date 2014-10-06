@@ -2,10 +2,10 @@
 // @name			Google Translator Tooltip Expanded Fork
 // @namespace		my.tooltip.namespace
 // @description		Translates the selected text into a tooltip automatically. Based on Google Translation Tooltip MLiteKeysOn.
-// @homepage       https://github.com/Odyseus/GreasemonkeyScripts/GoogleTranslatorTooltipExpandedFork
-// @icon           https://raw.githubusercontent.com/Odyseus/GreasemonkeyScripts/GoogleTranslatorTooltipExpandedFork/master/g-translate-logo.png
-// @updateURL      https://raw.github.com/Odyseus/GreasemonkeyScripts/GoogleTranslatorTooltipExpandedFork/master/gttef.user.js
-// @downloadURL    https://raw.github.com/Odyseus/GreasemonkeyScripts/GoogleTranslatorTooltipExpandedFork/master/gttef.user.js
+// @homepage       https://github.com/Odyseus/GreasemonkeyScripts/tree/master/GoogleTranslatorTooltipExpandedFork
+// @icon           https://raw.githubusercontent.com/Odyseus/GreasemonkeyScripts/master/GoogleTranslatorTooltipExpandedFork/g-translate-logo.png
+// @updateURL      https://github.com/Odyseus/GreasemonkeyScripts/raw/master/GoogleTranslatorTooltipExpandedFork/master/gttef.user.js
+// @downloadURL    https://github.com/Odyseus/GreasemonkeyScripts/raw/master/GoogleTranslatorTooltipExpandedFork/master/gttef.user.js
 // @version			1.12
 // @include			http*
 // @include			https*

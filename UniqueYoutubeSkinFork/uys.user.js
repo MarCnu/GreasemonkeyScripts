@@ -2,17 +2,17 @@
 // @name           Unique Youtube Skin Fork
 // @description    Perfect watch page. Dinamicly adjust player size with window size to get biggest video.
 // @author         haluk ilhan
-// @homepage       https://github.com/Odyseus/GreasemonkeyScripts/UniqueYoutubeSkin
-// @icon           https://raw.githubusercontent.com/Odyseus/GreasemonkeyScripts/UniqueYoutubeSkin/master/youtube-logo.png
-// @updateURL      https://raw.github.com/Odyseus/GreasemonkeyScripts/UniqueYoutubeSkin/master/uys.user.js
-// @downloadURL    https://raw.github.com/Odyseus/GreasemonkeyScripts/UniqueYoutubeSkin/master/uys.user.js
+// @homepage       https://github.com/Odyseus/GreasemonkeyScripts/tree/master/UniqueYoutubeSkinFork
+// @icon           https://raw.githubusercontent.com/Odyseus/GreasemonkeyScripts/master/UniqueYoutubeSkinFork/youtube-logo.png
+// @updateURL      https://github.com/Odyseus/GreasemonkeyScripts/raw/master/UniqueYoutubeSkinFork/uys.user.js
+// @downloadURL    https://github.com/Odyseus/GreasemonkeyScripts/raw/master/UniqueYoutubeSkinFork/uys.user.js
 // @version        0.5.13
 // @include        http://*youtube.com*
 // @include        https://*youtube.com*
-// @require       https://raw.github.com/Odyseus/GreasemonkeyScripts/UniqueYoutubeSkin/master/a11.js
+// @require       https://raw.githubusercontent.com/Odyseus/GreasemonkeyScripts/master/UniqueYoutubeSkinFork/a11.js
 // @require       http://code.jquery.com/jquery-1.8.3.js
 // @require       https://raw.github.com/joesimmons/jsl/master/versions/jsl-1.3.1.js
-// @require       https://raw.github.com/Odyseus/GreasemonkeyScripts/UniqueYoutubeSkin/master/gmc4.js
+// @require       https://raw.githubusercontent.com/Odyseus/GreasemonkeyScripts/master/UniqueYoutubeSkinFork/gmc4.js
 // @grant         GM_info 
 // @grant         GM_getValue 
 // @grant         GM_log 
